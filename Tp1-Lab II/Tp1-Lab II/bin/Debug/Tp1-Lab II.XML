@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tp1-Lab II</name>
+    </assembly>
+    <members>
+        <member name="M:Tp1_Lab_II.Calculadora2.Operar(Tp1_Lab_II.Numero,Tp1_Lab_II.Numero,System.String)">
+            <summary>
+            Toma 2 valores,un operador y calcula la operacion que corresponda
+            </summary>
+            <param name="numero1"></param>
+            <param name="numero2"></param>
+            <param name="operador"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Tp1_Lab_II.Calculadora2.ValidarOperador(System.String)">
+            <summary>
+            Recibe un string y valida que este comprendido en ciertos parametros
+            </summary>
+            <param name="operador"></param>
+            <returns></returns>
+        </member>
+        <member name="F:Tp1_Lab_II.Calculadora.components">
+            <summary>
+            Variable del diseñador requerida.
+            </summary>
+        </member>
+        <member name="M:Tp1_Lab_II.Calculadora.Dispose(System.Boolean)">
+            <summary>
+            Limpiar los recursos que se estén utilizando.
+            </summary>
+            <param name="disposing">true si los recursos administrados se deben eliminar; false en caso contrario.</param>
+        </member>
+        <member name="M:Tp1_Lab_II.Calculadora.InitializeComponent">
+            <summary>
+            Método necesario para admitir el Diseñador. No se puede modificar
+            el contenido del método con el editor de código.
+            </summary>
+        </member>
+        <member name="M:Tp1_Lab_II.Numero.#ctor">
+            <summary>
+            Inicializa el atributo _numero en cero
+            </summary>
+        </member>
+        <member name="M:Tp1_Lab_II.Numero.#ctor(System.String)">
+            <summary>
+            Valida e inicializa el atributo _numero con el valor que se le pase como
+            parametro
+            </summary>
+            <param name="numero"></param>
+        </member>
+        <member name="M:Tp1_Lab_II.Numero.#ctor(System.Double)">
+            <summary>
+            inicializa el atributo _numero con el valor que se le pasa
+            como parametro
+            </summary>
+            <param name="numero"></param>
+        </member>
+        <member name="M:Tp1_Lab_II.Numero.ValidarNumero(System.String)">
+            <summary>
+            Valida un string,si lo puede convertir a numero
+            lo retorna
+            </summary>
+            <param name="nro"></param>
+            <returns>0 si no pudo convertir,un double si pudo</returns>                  
+        </member>
+        <member name="M:Tp1_Lab_II.Numero.SetNumero(System.String)">
+            <summary>
+            Valida un string,si se pueda convertir a numero
+             lo asigna en el atributo _numero
+            </summary>
+            <param name="numero"></param>
+        </member>
+        <member name="M:Tp1_Lab_II.Numero.GetNumero">
+            <summary>
+            Retorna el valor que tiene en el momento la propiedad _numero 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Tp1_Lab_II.Program.Main">
+            <summary>
+            Punto de entrada principal para la aplicación.
+            </summary>
+        </member>
+        <member name="T:Tp1_Lab_II.Properties.Resources">
+            <summary>
+              Clase de recurso fuertemente tipado para buscar cadenas traducidas, etc.
+            </summary>
+        </member>
+        <member name="P:Tp1_Lab_II.Properties.Resources.ResourceManager">
+            <summary>
+              Devuelve la instancia ResourceManager almacenada en caché utilizada por esta clase.
+            </summary>
+        </member>
+        <member name="P:Tp1_Lab_II.Properties.Resources.Culture">
+            <summary>
+              Invalida la propiedad CurrentUICulture del subproceso actual para todas las
+              búsquedas de recursos usando esta clase de recursos fuertemente tipados.
+            </summary>
+        </member>
+    </members>
+</doc>

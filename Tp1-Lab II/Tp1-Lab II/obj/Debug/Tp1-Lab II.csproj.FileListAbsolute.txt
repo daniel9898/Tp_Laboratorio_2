@@ -1,0 +1,20 @@
+c:\users\daniel21\documents\visual studio 2012\Projects\Tp1-Lab II\Tp1-Lab II\bin\Debug\Tp1-Lab II.exe.config
+c:\users\daniel21\documents\visual studio 2012\Projects\Tp1-Lab II\Tp1-Lab II\bin\Debug\Tp1-Lab II.exe
+c:\users\daniel21\documents\visual studio 2012\Projects\Tp1-Lab II\Tp1-Lab II\bin\Debug\Tp1-Lab II.pdb
+c:\users\daniel21\documents\visual studio 2012\Projects\Tp1-Lab II\Tp1-Lab II\obj\Debug\Tp1_Lab_II.Properties.Resources.resources
+c:\users\daniel21\documents\visual studio 2012\Projects\Tp1-Lab II\Tp1-Lab II\obj\Debug\Tp1-Lab II.csproj.GenerateResource.Cache
+c:\users\daniel21\documents\visual studio 2012\Projects\Tp1-Lab II\Tp1-Lab II\obj\Debug\Tp1-Lab II.exe
+c:\users\daniel21\documents\visual studio 2012\Projects\Tp1-Lab II\Tp1-Lab II\obj\Debug\Tp1-Lab II.pdb
+c:\users\daniel21\documents\visual studio 2012\Projects\Tp1-Lab II\Tp1-Lab II\obj\Debug\Tp1_Lab_II.Calculadora.resources
+c:\users\daniel21\documents\visual studio 2012\Projects\Tp1-Lab II\Tp1-Lab II\obj\Debug\Tp1-Lab II.csprojResolveAssemblyReference.cache
+c:\users\daniel21\documents\visual studio 2012\Projects\Tp1-Lab II\Tp1-Lab II\bin\Debug\Tp1-Lab II.XML
+F:\Tp1-Lab II\Tp1-Lab II\bin\Debug\Tp1-Lab II.exe.config
+F:\Tp1-Lab II\Tp1-Lab II\bin\Debug\Tp1-Lab II.XML
+F:\Tp1-Lab II\Tp1-Lab II\obj\Debug\Tp1-Lab II.exe
+F:\Tp1-Lab II\Tp1-Lab II\obj\Debug\Tp1-Lab II.pdb
+F:\Tp1-Lab II\Tp1-Lab II\bin\Debug\Tp1-Lab II.exe
+F:\Tp1-Lab II\Tp1-Lab II\bin\Debug\Tp1-Lab II.pdb
+F:\Tp1-Lab II\Tp1-Lab II\obj\Debug\Tp1-Lab II.csprojResolveAssemblyReference.cache
+F:\Tp1-Lab II\Tp1-Lab II\obj\Debug\Tp1_Lab_II.Calculadora.resources
+F:\Tp1-Lab II\Tp1-Lab II\obj\Debug\Tp1_Lab_II.Properties.Resources.resources
+F:\Tp1-Lab II\Tp1-Lab II\obj\Debug\Tp1-Lab II.csproj.GenerateResource.Cache
