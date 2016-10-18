@@ -25,3 +25,6 @@ C:\Users\daniel21\Downloads\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.
 C:\Users\daniel21\Downloads\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
 C:\Users\daniel21\Downloads\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
 C:\Users\daniel21\Downloads\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb

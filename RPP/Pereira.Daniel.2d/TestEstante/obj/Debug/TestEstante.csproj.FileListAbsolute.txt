@@ -1,0 +1,24 @@
+c:\users\daniel21\documents\visual studio 2012\Projects\Pereira.Daniel.2d\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+c:\users\daniel21\documents\visual studio 2012\Projects\Pereira.Daniel.2d\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\daniel21\Documents\Visual Studio 2012\Projects\Pereira.Daniel.2d\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\daniel21\Documents\Visual Studio 2012\Projects\Pereira.Daniel.2d\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\daniel21\Documents\Visual Studio 2012\Projects\Pereira.Daniel.2d\TestEstante\bin\Debug\Entidades.dll
+C:\Users\daniel21\Documents\Visual Studio 2012\Projects\Pereira.Daniel.2d\TestEstante\bin\Debug\Entidades.pdb
+C:\Users\daniel21\Documents\Visual Studio 2012\Projects\Pereira.Daniel.2d\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\daniel21\Documents\Visual Studio 2012\Projects\Pereira.Daniel.2d\TestEstante\obj\Debug\TestEstante.pdb
+E:\Pereira.Daniel.2d\TestEstante\bin\Debug\TestEstante.exe.config
+E:\Pereira.Daniel.2d\TestEstante\obj\Debug\TestEstante.exe
+E:\Pereira.Daniel.2d\TestEstante\obj\Debug\TestEstante.pdb
+E:\Pereira.Daniel.2d\TestEstante\bin\Debug\TestEstante.exe
+E:\Pereira.Daniel.2d\TestEstante\bin\Debug\TestEstante.pdb
+E:\Pereira.Daniel.2d\TestEstante\bin\Debug\Entidades.dll
+E:\Pereira.Daniel.2d\TestEstante\bin\Debug\Entidades.pdb
+E:\Pereira.Daniel.2d\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+J:\Pereira.Daniel.2d\TestEstante\bin\Debug\TestEstante.exe.config
+J:\Pereira.Daniel.2d\TestEstante\obj\Debug\TestEstante.exe
+J:\Pereira.Daniel.2d\TestEstante\obj\Debug\TestEstante.pdb
+J:\Pereira.Daniel.2d\TestEstante\bin\Debug\TestEstante.exe
+J:\Pereira.Daniel.2d\TestEstante\bin\Debug\TestEstante.pdb
+J:\Pereira.Daniel.2d\TestEstante\bin\Debug\Entidades.dll
+J:\Pereira.Daniel.2d\TestEstante\bin\Debug\Entidades.pdb
+J:\Pereira.Daniel.2d\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
