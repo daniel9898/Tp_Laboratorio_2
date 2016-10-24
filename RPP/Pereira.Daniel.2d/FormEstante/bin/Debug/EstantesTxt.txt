@@ -1,0 +1,71 @@
+Valor total Estante1: 62,5Valor Estante1 sólo de Galletitas: 0Contenido Estante1:
+CAPACIDAD : 4
+MARCA : Favorita
+CODIGO DE BARRAS : 102
+PRECIO : 37,5
+TIPO : Integral
+
+MARCA : Naranjú
+CODIGO DE BARRAS : 112
+PRECIO : 25
+SABOR : Pasable
+Estante ordenado por Marca....
+CAPACIDAD : 4
+MARCA : Favorita
+CODIGO DE BARRAS : 102
+PRECIO : 37,5
+TIPO : Integral
+
+MARCA : Naranjú
+CODIGO DE BARRAS : 112
+PRECIO : 25
+SABOR : Pasable
+Estante1 sin Galletitas: CAPACIDAD : 4
+MARCA : Favorita
+CODIGO DE BARRAS : 102
+PRECIO : 37,5
+TIPO : Integral
+
+MARCA : Naranjú
+CODIGO DE BARRAS : 112
+PRECIO : 25
+SABOR : Pasable
+Contenido Estante2:
+CAPACIDAD : 3Contenido Estante2:
+CAPACIDAD : 3
+: 113
+PRECIO : 33,65
+PESO :250
+Estante1 sin Galletitas: CAPACIDAD : 4
+MARCA : Favorita
+CODIGO DE BARRAS : 102
+PRECIO : 37,5
+TIPO : CuatroCeros
+
+MARCA : Naranjú
+CODIGO DE BARRAS : 112
+PRECIO : 25
+SABOR : Pasable
+Contenido Estante2:
+CAPACIDAD : 3
+MARCA : Favorita
+CODIGO DE BARRAS : 103
+PRECIO : 40,25
+TIPO : Integral
+
+MARCA : Swift
+CODIGO DE BARRAS : 333
+PRECIO : 33
+SABOR : Asqueroso
+
+MARCA : Pitusas
+CODIGO DE BARRAS : 113
+PRECIO : 33,65
+PESO :250
+Contenido Estante2:
+CAPACIDAD : 3
+MARCA : Swift
+CODIGO DE BARRAS : 333
+PRECIO : 33
+SABOR : Asqueroso
+

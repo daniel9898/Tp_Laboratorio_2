@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Estante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Capacidad>4</Capacidad>
+  <Productos>
+    <Producto xsi:type="Harina">
+      <Marca>Favorita</Marca>
+      <Precio>37.5</Precio>
+      <CodigoDeBarra>102</CodigoDeBarra>
+      <Tipo>Integral</Tipo>
+    </Producto>
+    <Producto xsi:type="Jugo">
+      <Marca>Naranjú</Marca>
+      <Precio>25</Precio>
+      <CodigoDeBarra>112</CodigoDeBarra>
+      <Sabor>Pasable</Sabor>
+    </Producto>
+  </Productos>
+</Estante>

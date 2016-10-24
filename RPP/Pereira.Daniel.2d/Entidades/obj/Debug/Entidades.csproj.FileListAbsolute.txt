@@ -1,0 +1,23 @@
+c:\users\daniel21\documents\visual studio 2012\Projects\Pereira.Daniel.2d\Entidades\bin\Debug\Entidades.dll
+c:\users\daniel21\documents\visual studio 2012\Projects\Pereira.Daniel.2d\Entidades\bin\Debug\Entidades.pdb
+c:\users\daniel21\documents\visual studio 2012\Projects\Pereira.Daniel.2d\Entidades\obj\Debug\Entidades.dll
+c:\users\daniel21\documents\visual studio 2012\Projects\Pereira.Daniel.2d\Entidades\obj\Debug\Entidades.pdb
+E:\Pereira.Daniel.2d\Entidades\bin\Debug\Entidades.dll
+E:\Pereira.Daniel.2d\Entidades\bin\Debug\Entidades.pdb
+E:\Pereira.Daniel.2d\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\Pereira.Daniel.2d\Entidades\obj\Debug\Entidades.dll
+E:\Pereira.Daniel.2d\Entidades\obj\Debug\Entidades.pdb
+J:\Pereira.Daniel.2d\Entidades\bin\Debug\Entidades.dll
+J:\Pereira.Daniel.2d\Entidades\bin\Debug\Entidades.pdb
+J:\Pereira.Daniel.2d\Entidades\obj\Debug\Entidades.dll
+J:\Pereira.Daniel.2d\Entidades\obj\Debug\Entidades.pdb
+J:\Pereira.Daniel.2d\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\daniel21\Desktop\Pereira.Daniel.2d\Entidades\bin\Debug\Entidades.dll
+C:\Users\daniel21\Desktop\Pereira.Daniel.2d\Entidades\bin\Debug\Entidades.pdb
+C:\Users\daniel21\Desktop\Pereira.Daniel.2d\Entidades\obj\Debug\Entidades.dll
+C:\Users\daniel21\Desktop\Pereira.Daniel.2d\Entidades\obj\Debug\Entidades.pdb
+F:\Pereira.Daniel.2d\Entidades\bin\Debug\Entidades.dll
+F:\Pereira.Daniel.2d\Entidades\bin\Debug\Entidades.pdb
+F:\Pereira.Daniel.2d\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\Pereira.Daniel.2d\Entidades\obj\Debug\Entidades.dll
+F:\Pereira.Daniel.2d\Entidades\obj\Debug\Entidades.pdb
