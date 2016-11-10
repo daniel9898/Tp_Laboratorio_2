@@ -1,0 +1,60 @@
+CLASE DE CrossFit POR NOMBRE COMPLETO : Juarez,Roberto
+NACIONALIDAD :Argentino
+
+CARNET NÚMERO :2
+
+CLASES DEL DIA :
+Pilates
+CrossFit
+
+ALUMNOS :
+
+NOMBRE COMPLETO : Lopez,Juan
+NACIONALIDAD :Argentino
+
+CARNET NÚMERO :1
+
+ESTADO DE CUENTA :MesPrueba
+TOMA CLASES DE CrossFit
+
+NOMBRE COMPLETO : Gonzalez,Carlos
+NACIONALIDAD :Argentino
+
+CARNET NÚMERO :5
+
+ESTADO DE CUENTA :AlDia
+TOMA CLASES DE CrossFit
+
+<----------------------------------------------------------->
+
+
+CLASE DE CrossFit POR NOMBRE COMPLETO : Lopez,Juan
+NACIONALIDAD :Argentino
+
+CARNET NÚMERO :1
+
+CLASES DEL DIA :
+CrossFit
+CrossFit
+
+ALUMNOS :
+
+NOMBRE COMPLETO : Lopez,Juan
+NACIONALIDAD :Argentino
+
+CARNET NÚMERO :1
+
+ESTADO DE CUENTA :MesPrueba
+TOMA CLASES DE CrossFit
+
+NOMBRE COMPLETO : Gonzalez,Carlos
+NACIONALIDAD :Argentino
+
+CARNET NÚMERO :5
+
+ESTADO DE CUENTA :AlDia
+TOMA CLASES DE CrossFit
+
+<----------------------------------------------------------->
+
+

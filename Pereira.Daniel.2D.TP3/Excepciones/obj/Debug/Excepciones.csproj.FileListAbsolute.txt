@@ -1,0 +1,14 @@
+C:\Users\daniel21\Desktop\Pereira.Daniel.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\daniel21\Desktop\Pereira.Daniel.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\daniel21\Desktop\Pereira.Daniel.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\daniel21\Desktop\Pereira.Daniel.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+E:\Pereira.Daniel.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+E:\Pereira.Daniel.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+E:\Pereira.Daniel.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+E:\Pereira.Daniel.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+J:\Pereira.Daniel.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+J:\Pereira.Daniel.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+J:\Pereira.Daniel.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+J:\Pereira.Daniel.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+J:\Pereira.Daniel.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\daniel21\Desktop\Pereira.Daniel.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
