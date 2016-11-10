@@ -1,0 +1,13 @@
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\TestUnitario\bin\Debug\TestValorNumerico.dll
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\TestUnitario\bin\Debug\TestValorNumerico.pdb
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\TestUnitario\bin\Debug\EntidadesAbstractas.dll
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\TestUnitario\bin\Debug\EntidadesInstanciables.dll
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\TestUnitario\bin\Debug\Excepciones.dll
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\TestUnitario\bin\Debug\Archivos.dll
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\TestUnitario\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\TestUnitario\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\TestUnitario\bin\Debug\Excepciones.pdb
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\TestUnitario\bin\Debug\Archivos.pdb
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\TestUnitario\obj\Debug\TestValorNumerico.dll
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\TestUnitario\obj\Debug\TestValorNumerico.pdb

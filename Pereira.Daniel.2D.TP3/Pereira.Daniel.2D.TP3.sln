@@ -9,9 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excepciones", "Excepciones\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archivos", "Archivos\Archivos.csproj", "{46C35C47-4018-4B84-AD7F-E133532D322C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-TP3", "Consola-TP3\test-TP3.csproj", "{8162E188-21F6-4A3F-AC9C-4D4E2CB3EDD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola-TP3", "Consola-TP3\Consola-TP3.csproj", "{8162E188-21F6-4A3F-AC9C-4D4E2CB3EDD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utest", "TestUnitario\Utest.csproj", "{352B3E39-D246-4AE5-8495-E1E5ECA85062}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitario", "TestUnitario\TestUnitario.csproj", "{352B3E39-D246-4AE5-8495-E1E5ECA85062}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
