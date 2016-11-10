@@ -19,3 +19,10 @@ E:\Pereira.Daniel.2D.TP3\Archivos\bin\Debug\Excepciones.dll
 E:\Pereira.Daniel.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
 C:\Users\daniel21\Desktop\Pereira.Daniel.2D.TP3\Archivos\bin\Debug\Excepciones.dll
 C:\Users\daniel21\Desktop\Pereira.Daniel.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\Archivos\obj\Debug\Archivos.pdb

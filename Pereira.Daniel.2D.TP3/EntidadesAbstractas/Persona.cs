@@ -174,7 +174,7 @@ namespace EntidadesAbstractas
             return retorno;
         }
         /// <summary>
-        /// 
+        /// Valida que la nacionalidad cumpla con los parametros del numero de Dni
         /// </summary>
         /// <param name="nacionalidad"></param>
         /// <param name="dato"></param>
@@ -193,7 +193,12 @@ namespace EntidadesAbstractas
 
             return retorno;
         }
-
+        /// <summary>
+        /// Valida que la nacionalidad cumpla con los parametros del numero de Dni
+        /// </summary>
+        /// <param name="nacionalidad"></param>
+        /// <param name="dato"></param>
+        /// <returns></returns>
         private int ValidarDni(ENacionalidad nacionalidad, string dato)
         {
             int retorno = -1;
@@ -207,7 +212,11 @@ namespace EntidadesAbstractas
             }
             return retorno;
         }
-
+        /// <summary>
+        /// Valida que sea un nombre o apellido valido,solo letras
+        /// </summary>
+        /// <param name="dato"></param>
+        /// <returns></returns>
         private string ValidarNombreApellido(string dato)
         {
             Regex rgx = new Regex("^[A-Za-z ]+$");

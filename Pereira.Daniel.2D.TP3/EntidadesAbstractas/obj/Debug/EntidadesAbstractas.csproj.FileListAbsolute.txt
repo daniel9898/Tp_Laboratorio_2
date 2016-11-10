@@ -19,3 +19,10 @@ J:\Pereira.Daniel.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
 J:\Pereira.Daniel.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
 J:\Pereira.Daniel.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
 J:\Pereira.Daniel.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

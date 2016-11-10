@@ -12,3 +12,7 @@ J:\Pereira.Daniel.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
 J:\Pereira.Daniel.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
 J:\Pereira.Daniel.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
 C:\Users\daniel21\Desktop\Pereira.Daniel.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\dani\Documents\GitHub\Tp_Laboratorio_2\Pereira.Daniel.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb

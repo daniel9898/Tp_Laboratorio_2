@@ -38,7 +38,10 @@ namespace EntidadesAbstractas
         {
             return this.GetType() == obj.GetType();
         }
-
+        /// <summary>
+        /// retorna una cadena de texto con todos los datos del objeto Persona Gimnasio
+        /// </summary>
+        /// <returns></returns>
         protected virtual string MostrarDatos()
         {
             string retorno = "";
